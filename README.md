@@ -1,4 +1,9 @@
-# Minetest Game
+#WebCraft game 
+based on minetest this game is made for the WebCraft3D game 
+and will be updated to fit the critiria for the game we are
+trying to make.
+
+# Minetest Game(original game made by luanti)
 
 [![ContentDB](https://content.luanti.org/packages/Minetest/minetest_game/shields/title/)](https://content.luanti.org/packages/Minetest/minetest_game/)
 
